@@ -1,0 +1,16 @@
+{
+  "name": "KAYLIN.DEV — Software Security Audit & Analysis Hub",
+  "short_name": "KAYLIN.DEV",
+  "description": "Advanced binary security evaluation & de-obfuscation services. PyArmor, PyInstaller, Nuitka, Go, Rust, Android APK & iOS IPA reverse engineering.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
